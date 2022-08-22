@@ -1,3 +1,13 @@
+/*
+Author: Muhtasim Khan
+
+This program is a virtual ATM machine that can help people understand how a realife
+ATM machine works
+ */
+/*
+Import Java scanner and then state the veribles
+ */
+
 import java.util.Scanner;
 
 public class main 
